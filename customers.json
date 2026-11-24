@@ -10,5 +10,10 @@
     {
         "name": "Omar",
         "budget": 3000
+    },
+    {
+        "name": "mohamed",
+        "email": "mohamed1521",
+        "status": "ai"
     }
 ]
